@@ -1,0 +1,4 @@
+package: github.com/gofly/car60
+import:
+- package: github.com/PuerkitoBio/goquery
+  version: ^1.1.0
